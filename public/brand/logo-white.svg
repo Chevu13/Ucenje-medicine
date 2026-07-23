@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 96" role="img" aria-label="Učenje medicine">
+  <path d="M10 40 h38 l10 -7 12 7 h14 l8 -30 8 44 6 -21 10 7 12 -7 h32"
+        fill="none" stroke="#FFFFFF" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="10" y="84" font-family="Montserrat, Inter, system-ui, sans-serif" font-weight="800"
+        font-size="30" letter-spacing="0.5" fill="#FFFFFF">UČENJE</text>
+  <text x="152" y="84" font-family="Montserrat, Inter, system-ui, sans-serif" font-weight="800"
+        font-size="30" letter-spacing="0.5" fill="#9CC3FF">MEDICINE</text>
+</svg>

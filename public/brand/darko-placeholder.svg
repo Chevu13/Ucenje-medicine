@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 600" role="img" aria-label="Mesto za Darkovu fotografiju">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0052FF"/>
+      <stop offset="1" stop-color="#062066"/>
+    </linearGradient>
+  </defs>
+  <rect width="480" height="600" rx="24" fill="url(#bg)"/>
+  <path d="M40 300 h96 l22 -16 26 16 h36 l20 -66 20 106 14 -46 24 16 28 -16 h114"
+        fill="none" stroke="#9CC3FF" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" opacity="0.9"/>
+  <circle cx="240" cy="170" r="64" fill="#EBF2FF" opacity="0.18"/>
+  <circle cx="240" cy="152" r="30" fill="#EBF2FF" opacity="0.5"/>
+  <path d="M186 214 a54 44 0 0 1 108 0" fill="#EBF2FF" opacity="0.5"/>
+  <text x="240" y="420" text-anchor="middle" font-family="Montserrat, Inter, sans-serif"
+        font-weight="800" font-size="30" fill="#FFFFFF">DR DARKO MILOŠEVIĆ</text>
+  <text x="240" y="456" text-anchor="middle" font-family="Inter, sans-serif"
+        font-size="17" fill="#C7DBFF">Fotografija se dodaje u admin panelu</text>
+</svg>
